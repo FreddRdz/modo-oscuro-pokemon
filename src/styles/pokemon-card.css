@@ -1,0 +1,43 @@
+.pokemon-card {
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  padding: 8px;
+  border: 1px solid grey;
+  margin: 5px 0 5px 0;
+  cursor: pointer;
+}
+
+.inputValuePokemon {
+  width: 100%;
+}
+
+.main-pokemon-container {
+  padding: 0 8px 0 8px;
+}
+
+.pokemon-single-container {
+  align-items: center;
+}
+
+.pokemon-single-container > ul > li,
+.pokemon-cards-container > div > ul > li {
+  list-style: none;
+}
+
+.pokemon-single-container > ul,
+.pokemon-cards-container > div > ul {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.pokemonName {
+  text-align: center;
+}
+
+.habilitiesTitle {
+  text-align: center;
+}

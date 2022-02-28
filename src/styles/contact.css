@@ -1,0 +1,23 @@
+.contact-container {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-form {
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 16px;
+  min-width: 300px;
+}
+
+.checkbox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.form-button {
+  display: flex;
+  justify-content: center;
+}

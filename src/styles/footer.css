@@ -1,0 +1,24 @@
+.footer {
+  min-width: 320px;
+  background-color: grey;
+  height: auto;
+  width: 100%;
+}
+
+.footer-contenedor {
+  padding: 16px;
+}
+
+.footer-contenedor--leyenda {
+  text-align: center;
+  color: white;
+}
+
+.footer--BgColorDark {
+  background-color: #2a2438;
+}
+
+.footer-contenedor--leyenda {
+  text-align: center;
+  color: #dbd8e3;
+}
